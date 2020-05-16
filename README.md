@@ -17,3 +17,5 @@ In this project will be discussing on how to build automatic COVID-19 FAQ bot to
 3. Data preprocessing
 4. Techniques for Question representations
 5. Evaluate with user query
+
+You can find an article in Medium: https://medium.com/@narendren.jbk/covid-19-faq-bot-everything-you-need-to-know-about-qna-similarity-35a730f63fa1
